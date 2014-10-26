@@ -103,7 +103,7 @@ File.directory?("ruby")
 ```
 
 #### Czy plik jest do odczytu, zapisywalny lub wykonywalny
-Żeby sprawdzić, czy plik jest do odczytu, zapisywalny lub wykonywalny używamy odpowiednio metod `readeble?`, `writable?`, `executable?`: 
+Żeby sprawdzić, czy plik jest do odczytu, zapisywalny lub wykonywalny używamy odpowiednio metod `readable?`, `writable?`, `executable?`: 
 
 
 ```ruby
@@ -119,7 +119,7 @@ File.executable?("foo.txt")
 
 #### Sprawdzanie rozmiaru pliku:
 
-Do poznania rozmiaru pliku służy metoda `size?`:
+Do poznania rozmiaru pliku (w bajtach) służy metoda `size?`:
 
 ```ruby
 File.size("temp.txt")
