@@ -3,11 +3,11 @@
 
 ## Spis treści
 
- * tworzenie plików
- * otwieranie istniejących plików
- * zmiana nazwy i usuwanie plików
- * pobieranie informacji o plikach
- * czytanie i pisanie do plików
+ * [tworzenie plików](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md#tworzenie-nowych-plik%C3%B3w)
+ * [otwieranie istniejących plików](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md#otwieranie-istniej%C4%85cych-plik%C3%B3w)
+ * [zmiana nazwy i usuwanie plików](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md#zmiana-nazwy-i-usuwanie-plik%C3%B3w)
+ * [pobieranie informacji o plikach](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md#pobieranie-informacji-o-plikach)
+ * [czytanie i pisanie do plików](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md#czytanie-i-pisanie-do-pliku)
 
 ## Tworzenie nowych plików
 
