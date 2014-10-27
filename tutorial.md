@@ -39,7 +39,7 @@ Zwróć uwagę, że istniejące pliki mogą być otwarte w różnych trybach, ta
 
 ```ruby
 file = File.open('foo.txt', 'r')
-=> #<File:temp.txt>
+=> #<File:foo.txt>
 ```
 
 Możemy również sprawdzić, czy plik jest już otwarty za pomocą metody `closed?`:
